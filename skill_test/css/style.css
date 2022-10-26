@@ -1,0 +1,49 @@
+#signup {
+    width: 200%;
+    background-color: white;
+    color: orange;
+    border-color: orange;
+    margin-bottom: 15px;
+}
+
+fieldset {
+    margin: auto;
+    margin-top: 100px;
+    padding-top: 10px;
+    padding-left: 50px;
+    border: 2px groove;
+}
+
+legend {
+    margin-left: -40px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border: none;
+    width: auto;
+}
+
+.input {
+    margin-bottom: 15px;
+    width: 200%;
+}
+
+
+select {
+    width: 100%;
+}
+
+#readingLvl {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.row {
+    margin: 40px;
+}
+
+body {
+    background-image: url('https://gomohealth.com/wp-content/uploads/2019/08/diabetes-blood-surgar-check-gradient-background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
